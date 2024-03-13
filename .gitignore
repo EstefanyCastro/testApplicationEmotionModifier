@@ -13,4 +13,4 @@
 .externalNativeBuild
 .cxx
 local.properties
-OpenAI.kt
+DALLEOpenAI.kt
